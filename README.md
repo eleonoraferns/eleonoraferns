@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eleonoraferns
+- 👋 Hi, I’m Eleonora
 - 👀 I’m interested in programming and reading
 - 🌱 I’m currently learning computer science and engineering 
 
